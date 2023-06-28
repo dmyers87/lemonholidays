@@ -65,7 +65,7 @@
     "loopback-connector-mongodb": "^5.5.0",
     "loopback-connector-rest": "^4.0.1",
     "node-cron": "^3.0.0",
-    "tslib": "^2.0.0"
+    "tslib": "^2.5.3"
   },
   "devDependencies": {
     "@loopback/build": "^6.3.0",
